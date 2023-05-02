@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044165038710",
+    "project_id": "mot-project-7bc40",
+    "storage_bucket": "mot-project-7bc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044165038710:android:336b72b59d3f5c076a4557",
+        "android_client_info": {
+          "package_name": "com.example.mot_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044165038710-9uoih3riktb4nqd0lfe11voeig3joltt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2AX3Dt2B0vCzNDzn5nFIQiEVl_j5AYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044165038710-9uoih3riktb4nqd0lfe11voeig3joltt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
