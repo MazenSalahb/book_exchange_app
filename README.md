@@ -1,16 +1,13 @@
-# mot_test
+# Book Exchange App
 
-A new Flutter project.
+The Book Exchange App is a mobile application designed to promote sustainability and literacy by allowing users to exchange books with each other. This app aims to reduce the environmental impact of book production and waste by encouraging users to reuse and share their books
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User registration and login
+- Request and accept book exchanges
+- Edit user profile
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Flutter
+- PHP&MySQL
